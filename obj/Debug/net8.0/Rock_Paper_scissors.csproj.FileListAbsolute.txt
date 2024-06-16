@@ -1,0 +1,14 @@
+E:\Learn\Ongoing\Projects\Practice\C# Simple games\Rock_Paper_scissors\bin\Debug\net8.0\Rock_Paper_scissors.exe
+E:\Learn\Ongoing\Projects\Practice\C# Simple games\Rock_Paper_scissors\bin\Debug\net8.0\Rock_Paper_scissors.deps.json
+E:\Learn\Ongoing\Projects\Practice\C# Simple games\Rock_Paper_scissors\bin\Debug\net8.0\Rock_Paper_scissors.runtimeconfig.json
+E:\Learn\Ongoing\Projects\Practice\C# Simple games\Rock_Paper_scissors\bin\Debug\net8.0\Rock_Paper_scissors.dll
+E:\Learn\Ongoing\Projects\Practice\C# Simple games\Rock_Paper_scissors\bin\Debug\net8.0\Rock_Paper_scissors.pdb
+E:\Learn\Ongoing\Projects\Practice\C# Simple games\Rock_Paper_scissors\obj\Debug\net8.0\Rock_Paper_scissors.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Ongoing\Projects\Practice\C# Simple games\Rock_Paper_scissors\obj\Debug\net8.0\Rock_Paper_scissors.AssemblyInfoInputs.cache
+E:\Learn\Ongoing\Projects\Practice\C# Simple games\Rock_Paper_scissors\obj\Debug\net8.0\Rock_Paper_scissors.AssemblyInfo.cs
+E:\Learn\Ongoing\Projects\Practice\C# Simple games\Rock_Paper_scissors\obj\Debug\net8.0\Rock_Paper_scissors.csproj.CoreCompileInputs.cache
+E:\Learn\Ongoing\Projects\Practice\C# Simple games\Rock_Paper_scissors\obj\Debug\net8.0\Rock_Paper_scissors.dll
+E:\Learn\Ongoing\Projects\Practice\C# Simple games\Rock_Paper_scissors\obj\Debug\net8.0\refint\Rock_Paper_scissors.dll
+E:\Learn\Ongoing\Projects\Practice\C# Simple games\Rock_Paper_scissors\obj\Debug\net8.0\Rock_Paper_scissors.pdb
+E:\Learn\Ongoing\Projects\Practice\C# Simple games\Rock_Paper_scissors\obj\Debug\net8.0\Rock_Paper_scissors.genruntimeconfig.cache
+E:\Learn\Ongoing\Projects\Practice\C# Simple games\Rock_Paper_scissors\obj\Debug\net8.0\ref\Rock_Paper_scissors.dll
